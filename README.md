@@ -10,8 +10,8 @@ The entire system runs locally on your machine. No data leaves your computer. No
 
 ## Screenshots
 
-![Home Page](assets/RAG DA Page 1.png)
-![Chat Interface](assets/RAG DA 2.png)
+ ![Home Page](assets/RAG%20DA%20Page%201.png)
+![Chat Interface](assets/RAG%20DA%202.png)
 
 
 ## How RAG Works
